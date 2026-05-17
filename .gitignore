@@ -1,0 +1,7 @@
+node_modules
+dist
+*.log
+.env
+.env.*
+验证截图-*.png
+.tools
